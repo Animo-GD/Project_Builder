@@ -11,4 +11,4 @@ options:
   --gui            Launch GUI designer              Launch GUI designer
 ```
 ## GUI View
-![screenshot](Capture.png)
+![screenshot](Capture.PNG)
