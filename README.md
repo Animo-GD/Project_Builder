@@ -1,10 +1,12 @@
 # Project structure generator
 ```bash
+usage: generator.py [-h] [--json JSON] [--output OUTPUT] [--gui]
+
+Project structure generator
+
 options:
-  -h, --help            show this help message and exit
-  --diagram DIAGRAM     ASCII diagram file
-  --directory DIRECTORY
-                        Directory to convert
-  --output OUTPUT       Output directory for generated project
-  --gui                 Launch GUI designer
+  -h, --help       show this help message and exit
+  --json JSON      JSON file containing project structure       
+  --output OUTPUT  Output directory for generated project       
+  --gui            Launch GUI designer              Launch GUI designer
 ```
