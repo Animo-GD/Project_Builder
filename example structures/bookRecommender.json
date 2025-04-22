@@ -1,0 +1,18 @@
+{
+    "book_recommender": {
+      "app": {
+        "main.py": "# FastAPI book API",
+        "routes.py": "# Book routes",
+        "schemas.py": "# Book schemas",
+        "services": {
+          "book_service.py": "# Book logic"
+        },
+        "data": {
+          "books.csv": "book_id,title,author,genre,rating"
+        }
+      },
+      "requirements.txt": "fastapi\nuvicorn\npandas\npydantic",
+      "README.md": "# Book Recommender API"
+    }
+  }
+  

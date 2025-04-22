@@ -1,0 +1,18 @@
+{
+    "plant_identifier": {
+      "app": {
+        "main.py": "# FastAPI plant identifier",
+        "routes.py": "# Plant API routes",
+        "schemas.py": "# Plant input models",
+        "services": {
+          "plant_service.py": "# Plant identification logic"
+        },
+        "data": {
+          "plant_data.csv": "plant_id,name,description,habitat"
+        }
+      },
+      "requirements.txt": "fastapi\nuvicorn\npandas\npydantic",
+      "README.md": "# Plant Identifier API"
+    }
+  }
+  

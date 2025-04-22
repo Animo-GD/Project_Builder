@@ -1,0 +1,19 @@
+{
+    "fitness_tracker": {
+      "app": {
+        "main.py": "# FastAPI fitness tracker",
+        "routes.py": "# Workout & tracking endpoints",
+        "schemas.py": "# Workout models",
+        "services": {
+          "workout_service.py": "# Workout logic",
+          "tracking_service.py": "# Tracking logic"
+        },
+        "data": {
+          "workouts.csv": "workout_id,name,duration,calories"
+        }
+      },
+      "requirements.txt": "fastapi\nuvicorn\npandas\npydantic",
+      "README.md": "# Fitness Tracker API"
+    }
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "movie_api": {
+      "app": {
+        "main.py": "# FastAPI movie API",
+        "routes.py": "# Movie routes",
+        "schemas.py": "# Movie schemas",
+        "services": {
+          "movie_service.py": "# Movie logic"
+        },
+        "data": {
+          "movies.csv": "movie_id,title,director,genre,rating"
+        }
+      },
+      "requirements.txt": "fastapi\nuvicorn\npandas\npydantic",
+      "README.md": "# Movie Information API"
+    }
+  }
+  
