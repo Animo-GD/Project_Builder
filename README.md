@@ -10,3 +10,5 @@ options:
   --output OUTPUT  Output directory for generated project       
   --gui            Launch GUI designer              Launch GUI designer
 ```
+## GUI View
+![screenshot](Capture.png)
