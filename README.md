@@ -1,5 +1,5 @@
 # Project structure generator
-
+```bash
 options:
   -h, --help            show this help message and exit
   --diagram DIAGRAM     ASCII diagram file
@@ -7,3 +7,4 @@ options:
                         Directory to convert
   --output OUTPUT       Output directory for generated project
   --gui                 Launch GUI designer
+```
